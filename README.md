@@ -1,7 +1,7 @@
 ![MasterHead](https://addepto.com/wp-content/uploads/2021/08/Examples_See_8_Real_Applications_1_.webp)
 
 <h1 align="center">Hi 👋, I'm Harsh Tiwadi</h1>
-<h3 align="center">FRESHER</h3>
+<h1 align="center">FRESHER</h1>
 
 <img align="right" alt="Design" width="450" height ="250px" src="https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-05/data-globe-data-science-department-communication.jpg">
 
